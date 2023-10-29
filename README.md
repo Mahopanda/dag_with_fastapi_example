@@ -12,8 +12,7 @@
 
 
 ## 使用方法
-1. Clone 專案
-   首先，從 GitHub 上 Clone 此專案到本地：
+1. Clone 專案, 從 GitHub 上 Clone 此專案到本地：
    ```
    git clone https://github.com/Mahopanda/dag_with_fastapi_example.git
    ```
